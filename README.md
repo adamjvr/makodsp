@@ -10,3 +10,6 @@ Mako DSP Board Alpha 1.0 Specs:
 - microSD Card Slot
 - Dedicated Analog and Digital Supplies for clean audio
 - Fully Open Source Software and Hardware
+
+Prototype Design 1.0:
+![alt tag](https://raw.github.com/adamjvr/makodsp/master/PCB/Mako DSP P1.png)
