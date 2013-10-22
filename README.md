@@ -12,4 +12,4 @@ Mako DSP Board Alpha 1.0 Specs:
 - Fully Open Source Software and Hardware
 
 Prototype Design 1.0:
-![alt tag](https://raw.github.com/adamjvr/makodsp/master/PCB/Mako DSP P1.png)
+![Prototype R1.0 PCB](https://github.com/adamjvr/makodsp/blob/master/PCB/Mako%20DSP%20P1.png)
