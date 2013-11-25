@@ -17,6 +17,82 @@ Prototype Design 1.0:
 
 ![Prototype Design 1.0](/PCB/Mako%20DSP%20P1.png)
 
+Prototype IO Ports
+
+Power & Reset:
+
+Name | Pin | Notes
+-----|-----|----
+N/C
+IOREF
+RESET
+3.3v
+5v
+GND
+GND
+VIN
+
+Analog Inputs
+
+Name | Pin | Notes
+-----|-----|----
+A0   | 136
+A1   | 138
+A2   | 139
+A3   | 142
+A4   | 143
+A5   | 144
+
+Digital GPIO & Serial
+Name | Pin | Notes
+-----|-----|----
+RX 0 | 
+TX 1 |
+   2 |
+ ~ 3 |
+   4 |
+ ~ 5 |
+ ~ 6 |
+   7 |
+   8 |
+ ~ 9 |
+~ 10 |
+~ 11 |
+  12 |
+ GND |
+AREF |
+SDA  |
+SCL  |
+
+Auxillary GPIO 0
+Name | Pin | Notes
+-----|-----|----
+   0 |
+   1 |
+   2 |
+   3 |
+   4 |
+   5 |
+   6 |
+   7 |
+   8 |
+   9 |
+
+Auxillary GPIO 1
+Name | Pin | Notes
+-----|-----|----
+   0 |
+   1 |
+   2 |
+   3 |
+   4 |
+   5 |
+   6 |
+   7 |
+   8 |
+   9 |
+
+
 Created and Designed by Adam J. Vadala-Roth
 MakoDSP founded by Adam J. Vadala-Roth
 
