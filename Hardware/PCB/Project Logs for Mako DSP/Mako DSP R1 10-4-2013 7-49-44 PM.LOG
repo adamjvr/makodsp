@@ -1,0 +1,15 @@
+Added Component: Designator=1(PJ-102AH)
+Added Component: Designator=U10(LM3526)
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-3
+Added Pin To Net: NetName=NetU5_79 Pin=U10-1
+Added Pin To Net: NetName=NetR23_2 Pin=U10-2
+Added Pin To Net: NetName=NetR22_2 Pin=U10-3
+Added Pin To Net: NetName=NetU5_69 Pin=U10-4
+Added Pin To Net: NetName=NetC65_2 Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Pin To Net: NetName=5VCC Pin=U10-7
+Added Pin To Net: NetName=NetC63_2 Pin=U10-8
+Added Member To Class: ClassName=Mako DSP Power Member=Component 1 Center-positive 2.1 mm power jack
+Added Member To Class: ClassName=Mako DSP USB Member=Component U10 LM3526-H

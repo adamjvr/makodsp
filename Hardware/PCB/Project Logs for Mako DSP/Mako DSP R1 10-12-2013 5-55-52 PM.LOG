@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=NetC26_2 Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C65-1
+Removed Pin From Net: NetName=NetC65_2 Pin=C65-2
+Removed Pin From Net: NetName=GND Pin=C66-1
+Removed Pin From Net: NetName=NetC65_2 Pin=C66-2
+Removed Pin From Net: NetName=GND Pin=C67-1
+Removed Pin From Net: NetName=NetC67_2 Pin=C67-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=GND Pin=C70-1
+Removed Pin From Net: NetName=NetC65_2 Pin=FB8-1
+Removed Pin From Net: NetName=NetC67_2 Pin=FB9-1
+Removed Pin From Net: NetName=NetFB9_2 Pin=FB9-2
+Removed Pin From Net: NetName=GND Pin=FB11-2
+Removed Pin From Net: NetName=NetC26_2 Pin=ISP PGM1-1
+Removed Pin From Net: NetName=NetC26_2 Pin=ISP PGM1-1
+Removed Pin From Net: NetName=GND Pin=ISP PGM1-2
+Removed Pin From Net: NetName=GND Pin=ISP PGM1-2
+Removed Pin From Net: NetName=GND Pin=ISP PGM2-1
+Removed Pin From Net: NetName=DVDD Pin=ISP PGM2-3
+Removed Pin From Net: NetName=NetFB9_2 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J3-GND
+Removed Pin From Net: NetName=NetC26_2 Pin=R9-1
+Removed Pin From Net: NetName=DVDD Pin=R9-2
+Removed Pin From Net: NetName=DVDD Pin=R23-1
+Removed Pin From Net: NetName=NetC67_2 Pin=R24-1
+Removed Pin From Net: NetName=USB0_VBUS Pin=R24-2
+Removed Pin From Net: NetName=NetC67_2 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=NetC26_2 Pin=U5-96
+Removed Pin From Net: NetName=NetC65_2 Pin=U10-5
+Removed Pin From Net: NetName=GND Pin=U10-6
+Removed Member From Class: ClassName=Mako DSP Main R1.1 Member=C26
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=C65
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=C66
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=C67
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=C69
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=C70
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=FB8
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=FB9
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=FB11
+Removed Member From Class: ClassName=Mako DSP Main R1.1 Member=ISP PGM1
+Removed Member From Class: ClassName=Mako DSP Main R1.1 Member=ISP PGM2
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=J2
+Removed Member From Class: ClassName=Mako DSP Main R1.1 Member=R9
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R23
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R24
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R25
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R26
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R28
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R30
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R31
+Removed Member From Class: ClassName=Mako DSP USBR1.1 Member=R46
+Added Pin To Net: NetName=NetC26_2 Pin=R27-2
+Added Pin To Net: NetName=NetC26_2 Pin=U5-21
+Added Pin To Net: NetName=NetC65_2 Pin=U5-89
+Added Pin To Net: NetName=NetC67_2 Pin=U5-90
+Added Pin To Net: NetName=NetFB9_2 Pin=U5-96
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetC65_2 New Net Name=NetU5_89
+Change Net Name : Old Net Name=NetC67_2 New Net Name=NetU5_90
+Change Net Name : Old Net Name=NetFB9_2 New Net Name=NetU5_96
+Change Class Name : Old Net Name=Mako DSP Arduio IO R1.1 New Net Name=Mako DSP Arduio IO R1.2
+Change Class Name : Old Net Name=Mako DSP Audio Codec R1.1 New Net Name=Mako DSP Audio Codec R1.2
+Change Class Name : Old Net Name=Mako DSP Main R1.1 New Net Name=Mako DSP Main R1.2
+Change Class Name : Old Net Name=Mako DSP Power R1.1 New Net Name=Mako DSP Power R1.2
+Change Class Name : Old Net Name=Mako DSP USBR1.1 New Net Name=Mako DSP USBR1.2

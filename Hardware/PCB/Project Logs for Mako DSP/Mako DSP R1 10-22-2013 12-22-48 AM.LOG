@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=DVDD Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C50-1
+Removed Pin From Net: NetName=DVDD Pin=C50-2
+Removed Pin From Net: NetName=USB0_VBUS Pin=U6-1
+Removed Pin From Net: NetName=USB0_VBUS Pin=U6-2
+Removed Pin From Net: NetName=DVDD Pin=U6-3
+Removed Pin From Net: NetName=USB0_VBUS Pin=U6-4
+Removed Pin From Net: NetName=USB0_VBUS Pin=U6-5
+Removed Pin From Net: NetName=DVDD Pin=U6-6
+Removed Member From Class: ClassName=Mako DSP USBR1.2 Member=C26
+Removed Member From Class: ClassName=Mako DSP USBR1.2 Member=C50
+Removed Member From Class: ClassName=Mako DSP USBR1.2 Member=U6

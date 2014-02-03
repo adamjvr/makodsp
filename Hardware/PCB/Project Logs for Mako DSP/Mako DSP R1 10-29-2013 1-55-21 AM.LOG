@@ -1,0 +1,22 @@
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=USER STATUS(RGB LED APTF1616SEEZGQBDC)
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=USER STATUS-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=USER STATUS-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU5_106 Pin=U5-106
+Added Net: Name=NetU5_106
+Added Pin To Net: NetName=USER_STATUS_BLUE Pin=R?-2
+Added Pin To Net: NetName=USER_STATUS_BLUE Pin=U5-108
+Added Net: Name=USER_STATUS_BLUE
+Added Pin To Net: NetName=USER_STATUS_GREEN Pin=R?-1
+Added Pin To Net: NetName=USER_STATUS_GREEN Pin=U5-105
+Added Net: Name=USER_STATUS_GREEN
+Added Pin To Net: NetName=USER_STATUS_RED Pin=R?-1
+Added Net: Name=USER_STATUS_RED
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component R? Res3
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component USER STATUS APTF1616SEEZGQBDC

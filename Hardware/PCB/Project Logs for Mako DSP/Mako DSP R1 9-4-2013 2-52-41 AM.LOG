@@ -1,0 +1,14 @@
+Added Component: Designator=Digital IO Higher Byte(Arduino Leonardo High Byte)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetDigital IO Higher Byte_1 Pin=Digital IO Higher Byte-1
+Added Pin To Net: NetName=NetDigital IO Higher Byte_2 Pin=Digital IO Higher Byte-2
+Added Pin To Net: NetName=AVDD Pin=Digital IO Higher Byte-3
+Added Pin To Net: NetName=GND Pin=Digital IO Higher Byte-4
+Added Pin To Net: NetName=NetDigital IO Higher Byte_5 Pin=Digital IO Higher Byte-5
+Added Pin To Net: NetName=NetDigital IO Higher Byte_6 Pin=Digital IO Higher Byte-6
+Added Pin To Net: NetName=NetDigital IO Higher Byte_7 Pin=Digital IO Higher Byte-7
+Added Pin To Net: NetName=NetDigital IO Higher Byte_8 Pin=Digital IO Higher Byte-8
+Added Pin To Net: NetName=NetDigital IO Higher Byte_9 Pin=Digital IO Higher Byte-9
+Added Pin To Net: NetName=NetDigital IO Higher Byte_10 Pin=Digital IO Higher Byte-10
+Added Pin To Net: NetName=DVDD Pin=R1-2
+Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component Digital IO Higher Byte Arduino Leonardo High Byte

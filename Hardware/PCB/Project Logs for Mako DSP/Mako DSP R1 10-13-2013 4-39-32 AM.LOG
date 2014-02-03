@@ -1,0 +1,32 @@
+Added Component: Designator=ADIO(HDR2X5)
+Added Pin To Net: NetName=NetADIO_1 Pin=ADIO-1
+Added Pin To Net: NetName=NetADIO_1 Pin=U5-95
+Added Net: Name=NetADIO_1
+Added Pin To Net: NetName=NetADIO_2 Pin=ADIO-2
+Added Pin To Net: NetName=NetADIO_2 Pin=U5-96
+Added Net: Name=NetADIO_2
+Added Pin To Net: NetName=NetADIO_3 Pin=ADIO-3
+Added Pin To Net: NetName=NetADIO_3 Pin=U5-97
+Added Net: Name=NetADIO_3
+Added Pin To Net: NetName=NetADIO_4 Pin=ADIO-4
+Added Pin To Net: NetName=NetADIO_4 Pin=U5-98
+Added Net: Name=NetADIO_4
+Added Pin To Net: NetName=NetADIO_5 Pin=ADIO-5
+Added Pin To Net: NetName=NetADIO_5 Pin=U5-99
+Added Net: Name=NetADIO_5
+Added Pin To Net: NetName=NetADIO_6 Pin=ADIO-6
+Added Pin To Net: NetName=NetADIO_6 Pin=U5-100
+Added Net: Name=NetADIO_6
+Added Pin To Net: NetName=NetADIO_7 Pin=ADIO-7
+Added Pin To Net: NetName=NetADIO_7 Pin=U5-101
+Added Net: Name=NetADIO_7
+Added Pin To Net: NetName=NetADIO_8 Pin=ADIO-8
+Added Pin To Net: NetName=NetADIO_8 Pin=U5-102
+Added Net: Name=NetADIO_8
+Added Pin To Net: NetName=NetADIO_9 Pin=ADIO-9
+Added Pin To Net: NetName=NetADIO_9 Pin=U5-103
+Added Net: Name=NetADIO_9
+Added Pin To Net: NetName=NetADIO_10 Pin=ADIO-10
+Added Pin To Net: NetName=NetADIO_10 Pin=U5-108
+Added Net: Name=NetADIO_10
+Added Member To Class: ClassName=Mako DSP Arduio IO R1.2 Member=Component ADIO Header 5X2

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U7 Old Footprint=DSG8-1600X900TP New Footprint=TPS62162SOP
+Change Component Footprint: Designator=U8 Old Footprint=DSG8-1600X900TP New Footprint=TPS62162SOP
+Change Component Footprint: Designator=U9 Old Footprint=DSG8-1600X900TP New Footprint=TPS62162SOP
+Change Component Comment : Designator=U8 Old Comment=TPS62163SOP New Comment=TPS62162SOP

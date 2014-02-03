@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=ADC_BLK New Net Name=ADC_RX_SCK
+Change Net Name : Old Net Name=ADC_DOUT New Net Name=ADC_RX_SDA
+Change Net Name : Old Net Name=ADC_MCLK New Net Name=ADC_RX_MCLK
+Change Net Name : Old Net Name=ADC_WRD_CLK New Net Name=ADC_RX_WS
+Change Net Name : Old Net Name=DAC_BLK New Net Name=DAC_TX_SCK
+Change Net Name : Old Net Name=DAC_DIN New Net Name=DAC_TX_SDA
+Change Net Name : Old Net Name=DAC_MCLK New Net Name=DAC_TX_MLCK
+Change Net Name : Old Net Name=DAC_WRD_CLK New Net Name=DAC_TX_WS
+Added Room: Name=Mako DSP Main R1.1

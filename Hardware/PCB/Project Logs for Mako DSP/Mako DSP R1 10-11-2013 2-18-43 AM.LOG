@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=NetC29_2 New Net Name=RESET
+Change Net Name : Old Net Name=NetC33_1 New Net Name=VSSA
+Change Net Name : Old Net Name=NetC33_2 New Net Name=VDDA
+Change Net Name : Old Net Name=NetC35_2 New Net Name=RTCX1
+Change Net Name : Old Net Name=NetC36_2 New Net Name=RTCX2
+Change Net Name : Old Net Name=NetJTAG/DEBUG1_2 New Net Name=TMS/SWDIO
+Change Net Name : Old Net Name=NetJTAG/DEBUG1_4 New Net Name=TCK/SWDCLK
+Change Net Name : Old Net Name=NetJTAG/DEBUG1_6 New Net Name=TDO/SWO
+Change Net Name : Old Net Name=NetJTAG/DEBUG1_8 New Net Name=TDI
+Change Net Name : Old Net Name=NetR13_1 New Net Name=TRST

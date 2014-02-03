@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5VCC Pin=R22-1
+Removed Pin From Net: NetName=5VCC Pin=R23-1
+Added Component: Designator=R46(J1-0603)
+Added Component: Designator=R47(J1-0603)
+Added Pin To Net: NetName=DVDD Pin=R22-1
+Added Pin To Net: NetName=DVDD Pin=R23-1
+Added Pin To Net: NetName=NetU5_79 Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R47-1
+Added Pin To Net: NetName=NetU5_69 Pin=R47-2
+Change Net Name : Old Net Name=NetU5_69 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetU5_79 New Net Name=NetR46_1
+Added Member To Class: ClassName=Mako DSP USB Member=Component R46 Res3
+Added Member To Class: ClassName=Mako DSP USB Member=Component R47 Res3

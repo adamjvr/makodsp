@@ -1,0 +1,12 @@
+Added Component: Designator=C55(Panasonic VS B)
+Added Component: Designator=C58(Panasonic VS B)
+Added Component: Designator=C61(Panasonic VS B)
+Added Pin To Net: NetName=AVDD Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=5VCC Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=DVDD Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C61-2
+Added Member To Class: ClassName=Mako DSP Power Member=Component C55 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power Member=Component C58 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power Member=Component C61 Cap Semi

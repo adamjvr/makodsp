@@ -1,0 +1,27 @@
+Added Component: Designator=D1(SM 0805 polarized)
+Added Component: Designator=D3(SM 0805 polarized)
+Added Component: Designator=D4(SM 0805 polarized)
+Added Component: Designator=R9(SM 0805 - gap trimmed)
+Added Component: Designator=R10(SM 0805 - gap trimmed)
+Added Component: Designator=R11(SM 0805 - gap trimmed)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=5VCC Pin=R9-1
+Added Pin To Net: NetName=DVDD Pin=R10-1
+Added Pin To Net: NetName=AVDD Pin=R11-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R9-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R10-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R11-2
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component D1 LED2
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component D3 LED2
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component D4 LED2
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component R9 Res3
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component R10 Res3
+Added Member To Class: ClassName=Mako DSP Power R1.2 Member=Component R11 Res3

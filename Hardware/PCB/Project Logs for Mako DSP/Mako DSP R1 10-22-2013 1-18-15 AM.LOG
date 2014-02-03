@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5VCC Pin=C62-2
+Removed Pin From Net: NetName=USB0_VBUS Pin=FB7-2
+Removed Pin From Net: NetName=USB0_VBUS Pin=R27-2
+Removed Pin From Net: NetName=USB0_VBUS Pin=U5-21
+Removed Pin From Net: NetName=5VCC Pin=U10-7
+Added Pin To Net: NetName=USB0_VBUS Pin=C62-2
+Added Pin To Net: NetName=5VCC Pin=FB7-2
+Added Pin To Net: NetName=5VCC Pin=R27-2
+Added Pin To Net: NetName=5VCC Pin=U5-21
+Added Pin To Net: NetName=USB0_VBUS Pin=U10-7
+Change Net Name : Old Net Name=5VCC New Net Name=USB0_VBUS
+Change Net Name : Old Net Name=USB0_VBUS New Net Name=NetC62_2

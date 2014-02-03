@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net1_1 Pin=D2-1
+Removed Pin From Net: NetName=VIN Pin=D2-2
+Change Component Footprint: Designator=C55 Old Footprint=Panasonic VS C New Footprint=Panasonic VS B
+Added Pin To Net: NetName=VIN Pin=D2-1
+Added Pin To Net: NetName=Net1_1 Pin=D2-2

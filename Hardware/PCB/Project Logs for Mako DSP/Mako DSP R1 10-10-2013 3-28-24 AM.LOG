@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=FB14 Old DesignItemId=BLM15HG601SN1D New DesignItemId=Inductor
+Change Component DesignItemId : Designator=FB15 Old DesignItemId=BLM15HG601SN1D New DesignItemId=Inductor
+Change Component Footprint: Designator=FB14 Old Footprint=BLM18PG121SN1D New Footprint=SM 0805 - gap trimmed
+Change Component Footprint: Designator=FB15 Old Footprint=BLM18PG121SN1D New Footprint=SM 0805 - gap trimmed
+Change Component Comment : Designator=FB14 Old Comment=BLM15HG601SN1D New Comment=Ferrite
+Change Component Comment : Designator=FB15 Old Comment=BLM15HG601SN1D New Comment=Ferrite

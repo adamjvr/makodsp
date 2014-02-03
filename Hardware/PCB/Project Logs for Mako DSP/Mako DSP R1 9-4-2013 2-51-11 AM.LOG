@@ -1,0 +1,40 @@
+Added Component: Designator=Analog Input(Arduino Leonardo Analog)
+Added Component: Designator=Digital IO Higher Byte(Arduino Leonardo High Byte)
+Added Component: Designator=Digital IO Lower Byte(Arduino Leonardo Low Byte)
+Added Component: Designator=Power & Reset(Arduino Leonardo Power)
+Added Pin To Net: NetName=NetAnalog Input_1 Pin=Analog Input-1
+Added Pin To Net: NetName=NetAnalog Input_2 Pin=Analog Input-2
+Added Pin To Net: NetName=NetAnalog Input_3 Pin=Analog Input-3
+Added Pin To Net: NetName=NetAnalog Input_4 Pin=Analog Input-4
+Added Pin To Net: NetName=NetAnalog Input_5 Pin=Analog Input-5
+Added Pin To Net: NetName=NetAnalog Input_6 Pin=Analog Input-6
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetDigital IO Higher Byte_1 Pin=Digital IO Higher Byte-1
+Added Pin To Net: NetName=NetDigital IO Higher Byte_2 Pin=Digital IO Higher Byte-2
+Added Pin To Net: NetName=AVDD Pin=Digital IO Higher Byte-3
+Added Pin To Net: NetName=GND Pin=Digital IO Higher Byte-4
+Added Pin To Net: NetName=NetDigital IO Higher Byte_5 Pin=Digital IO Higher Byte-5
+Added Pin To Net: NetName=NetDigital IO Higher Byte_6 Pin=Digital IO Higher Byte-6
+Added Pin To Net: NetName=NetDigital IO Higher Byte_7 Pin=Digital IO Higher Byte-7
+Added Pin To Net: NetName=NetDigital IO Higher Byte_8 Pin=Digital IO Higher Byte-8
+Added Pin To Net: NetName=NetDigital IO Higher Byte_9 Pin=Digital IO Higher Byte-9
+Added Pin To Net: NetName=NetDigital IO Higher Byte_10 Pin=Digital IO Higher Byte-10
+Added Pin To Net: NetName=NetDigital IO Lower Byte_1 Pin=Digital IO Lower Byte-1
+Added Pin To Net: NetName=NetDigital IO Lower Byte_2 Pin=Digital IO Lower Byte-2
+Added Pin To Net: NetName=NetDigital IO Lower Byte_3 Pin=Digital IO Lower Byte-3
+Added Pin To Net: NetName=NetDigital IO Lower Byte_4 Pin=Digital IO Lower Byte-4
+Added Pin To Net: NetName=NetDigital IO Lower Byte_5 Pin=Digital IO Lower Byte-5
+Added Pin To Net: NetName=NetDigital IO Lower Byte_6 Pin=Digital IO Lower Byte-6
+Added Pin To Net: NetName=NetDigital IO Lower Byte_7 Pin=Digital IO Lower Byte-7
+Added Pin To Net: NetName=NetDigital IO Lower Byte_8 Pin=Digital IO Lower Byte-8
+Added Pin To Net: NetName=DVDD Pin=Power & Reset-2
+Added Pin To Net: NetName=DVDD Pin=Power & Reset-4
+Added Pin To Net: NetName=5VCC Pin=Power & Reset-5
+Added Pin To Net: NetName=GND Pin=Power & Reset-6
+Added Pin To Net: NetName=GND Pin=Power & Reset-7
+Added Pin To Net: NetName=VIN Pin=Power & Reset-8
+Added Pin To Net: NetName=DVDD Pin=R1-2
+Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component Analog Input Arduino Leonardo Analog
+Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component Digital IO Higher Byte Arduino Leonardo High Byte
+Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component Digital IO Lower Byte Arduino Leonardo Low Byte
+Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component Power & Reset Arduino Leonardo Power

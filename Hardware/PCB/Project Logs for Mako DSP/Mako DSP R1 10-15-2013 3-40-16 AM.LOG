@@ -1,0 +1,15 @@
+Added Component: Designator=C?(1608[0603])
+Added Component: Designator=C?(1608[0603])
+Added Component: Designator=U10(LM3525)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=DVDD Pin=C?-2
+Added Pin To Net: NetName=DVDD Pin=C?-2
+Added Pin To Net: NetName=USB0_PPWR Pin=U10-1
+Added Pin To Net: NetName=USB0_PPWR_FAULT Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=NetC63_2 Pin=U10-6
+Added Pin To Net: NetName=5VCC Pin=U10-7
+Added Pin To Net: NetName=NetC63_2 Pin=U10-8
+Added Member To Class: ClassName=Mako DSP USBR1.2 Member=Component C? Cap Semi
+Added Member To Class: ClassName=Mako DSP USBR1.2 Member=Component U10 LM3525

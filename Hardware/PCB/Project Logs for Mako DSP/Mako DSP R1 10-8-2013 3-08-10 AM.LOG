@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=U7 Old DesignItemId=TPS62162SOP New DesignItemId=TPS62162DGSD
+Change Component DesignItemId : Designator=U8 Old DesignItemId=TPS62162SOP New DesignItemId=TPS62162DGSD
+Change Component DesignItemId : Designator=U9 Old DesignItemId=TPS62162SOP New DesignItemId=TPS62162DGSD
+Change Component Comment : Designator=U7 Old Comment=TPS62162SOP New Comment=TPS62162DGSD
+Change Component Comment : Designator=U9 Old Comment=TPS62162SOP New Comment=TPS62162DGSD
+Change Component Comment : Designator=U8 Old Comment=TPS62163SOP New Comment=TPS62162DGSD
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U9-9

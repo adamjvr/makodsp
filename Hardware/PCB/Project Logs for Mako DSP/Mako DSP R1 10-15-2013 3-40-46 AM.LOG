@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=DVDD Pin=C50-2
+Added Member To Class: ClassName=Mako DSP USBR1.2 Member=Component C26 Cap Semi
