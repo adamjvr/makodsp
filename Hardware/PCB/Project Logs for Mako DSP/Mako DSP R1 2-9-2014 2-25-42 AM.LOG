@@ -1,0 +1,11 @@
+Added Component: Designator=C53(Panasonic VS B)
+Added Pin To Net: NetName=+5VCC Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=+5VCC Pin=C62-2
+Added Pin To Net: NetName=+5VCC Pin=FB7-2
+Added Pin To Net: NetName=+5VCC Pin=Power & Reset1-5
+Added Pin To Net: NetName=+5VCC Pin=R27-2
+Added Pin To Net: NetName=+5VCC Pin=U5-21
+Added Pin To Net: NetName=+5VCC Pin=U10-7
+Change Net Name : Old Net Name=+5VCC New Net Name=USB0_VBUS
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C53 Cap Semi

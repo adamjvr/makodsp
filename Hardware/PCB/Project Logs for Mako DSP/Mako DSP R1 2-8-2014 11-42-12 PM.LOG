@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=C53-1
+Removed Pin From Net: NetName=VIN Pin=C53-2
+Removed Pin From Net: NetName=AVDD Pin=C54-2
+Removed Pin From Net: NetName=AVDD Pin=C55-1
+Removed Pin From Net: NetName=GND Pin=C55-2
+Removed Pin From Net: NetName=GND Pin=C56-1
+Removed Pin From Net: NetName=VIN Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=USB0_VBUS Pin=C57-2
+Removed Pin From Net: NetName=USB0_VBUS Pin=C58-1
+Removed Pin From Net: NetName=VIN Pin=C59-2
+Removed Pin From Net: NetName=AVDD Pin=L1-2
+Removed Pin From Net: NetName=NetL2_1 Pin=L2-1
+Removed Pin From Net: NetName=USB0_VBUS Pin=L2-2
+Removed Pin From Net: NetName=NetR19_1 Pin=R19-1
+Removed Pin From Net: NetName=AVDD Pin=R19-2
+Removed Pin From Net: NetName=NetR20_1 Pin=R20-1
+Removed Pin From Net: NetName=USB0_VBUS Pin=R20-2
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=VIN Pin=U7-2
+Removed Pin From Net: NetName=VIN Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-5
+Removed Pin From Net: NetName=AVDD Pin=U7-6
+Removed Pin From Net: NetName=NetL1_1 Pin=U7-7
+Removed Pin From Net: NetName=NetR19_1 Pin=U7-8
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=VIN Pin=U8-2
+Removed Pin From Net: NetName=VIN Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U8-5
+Removed Pin From Net: NetName=USB0_VBUS Pin=U8-6
+Removed Pin From Net: NetName=NetL2_1 Pin=U8-7
+Removed Pin From Net: NetName=NetR20_1 Pin=U8-8
+Removed Pin From Net: NetName=GND Pin=U8-9
+Removed Pin From Net: NetName=VIN Pin=U9-2
+Removed Pin From Net: NetName=VIN Pin=U9-3
+Change Component DesignItemId : Designator=U7 Old DesignItemId=TPS62162SOP New DesignItemId=TLV117112
+Change Component Footprint: Designator=C53 Old Footprint=C1206 New Footprint=Panasonic VS B
+Change Component Footprint: Designator=U7 Old Footprint=DSG8-1600X900TP New Footprint=TLV117112
+Change Component Footprint: Designator=C55 Old Footprint=Panasonic VS B New Footprint=C1206
+Change Component Footprint: Designator=L1 Old Footprint=VLS252012T-2R2M1R3 New Footprint=CIP0530LR3R3
+Change Component Comment : Designator=U7 Old Comment=TPS62162SOP New Comment=TLV117113
+Change Component Designator: OldDesignator=DBGEN NewDesignator=DBGEN1
+Change Component Designator: OldDesignator=JTAG/DEBUG NewDesignator=JTAG/DEBUG1
+Change Component Designator: OldDesignator=microSD NewDesignator=SD1
+Change Component Designator: OldDesignator=Reset NewDesignator=RESET1
+Change Component Designator: OldDesignator=RTCALARM NewDesignator=RTCALARM1
+Change Component Designator: OldDesignator=Stereo Input NewDesignator=Stereo Input1
+Change Component Designator: OldDesignator=Stereo Output NewDesignator=Stereo Output1
+Change Component Designator: OldDesignator=TRST NewDesignator=TRST1
+Change Component Designator: OldDesignator=USB 0 NewDesignator=J3
+Change Component Designator: OldDesignator=WAKEUP NewDesignator=WAKEUP1
+Added Component: Designator=C26(1608[0603])
+Added Component: Designator=C50(C1206)
+Added Component: Designator=P1(HDR2X7)
+Added Component: Designator=P2(HDR2X13)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=U6(MIC24085-AYML)
+Added Pin To Net: NetName=NetL1_1 Pin=C26-1
+Added Pin To Net: NetName=NetL2_1 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=NetR20_1 Pin=C50-2
+Added Pin To Net: NetName=NetR20_1 Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=VIN Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=VIN Pin=C55-2
+Added Pin To Net: NetName=NetR20_1 Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=AVDD Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=AVDD Pin=C58-1
+Added Pin To Net: NetName=NetR20_1 Pin=C59-2
+Added Pin To Net: NetName=NetR20_1 Pin=L1-2
+Added Pin To Net: NetName=NetR19_1 Pin=R9-1
+Added Pin To Net: NetName=NetR20_1 Pin=R9-2
+Added Pin To Net: NetName=NetR20_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetR19_1 Pin=R11-2
+Added Pin To Net: NetName=NetL1_1 Pin=U6-1
+Added Pin To Net: NetName=VIN Pin=U6-2
+Added Pin To Net: NetName=VIN Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=NetR19_1 Pin=U6-5
+Added Pin To Net: NetName=NetR20_1 Pin=U6-9
+Added Pin To Net: NetName=NetL2_1 Pin=U6-10
+Added Pin To Net: NetName=VIN Pin=U6-11
+Added Pin To Net: NetName=NetL1_1 Pin=U6-12
+Added Pin To Net: NetName=NetL1_1 Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=NetL1_1 Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Pin To Net: NetName=NetR20_1 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=AVDD Pin=U7-3
+Added Pin To Net: NetName=NetR20_1 Pin=U9-2
+Added Pin To Net: NetName=NetR20_1 Pin=U9-3
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetL2_1 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=+5VCC
+Change Class Name : Old Net Name=Mako DSP Power R1.2 New Net Name=Mako DSP Power R1.3
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C26 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C50 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C53 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C54 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C55 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C56 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C57 Cap Semi
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component C58 Cap Semi
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component DBGEN1 Header 2
+Added Member To Class: ClassName=Mako DSP USBR1.2 Member=Component J3 DX4R005J91R5100
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component JTAG/DEBUG1 S9015E-05-ND
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component L1 Inductor
+Added Member To Class: ClassName=Mako DSP Arduio IO R1.2 Member=Component P1 Header 7X2
+Added Member To Class: ClassName=Mako DSP Arduio IO R1.2 Member=Component P2 Header 13X2
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component R9 Res3
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component R10 Res3
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component R11 Res3
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component RTCALARM1 Socket
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component SD1 JAE SJ107021
+Added Member To Class: ClassName=Mako DSP Audio Codec R1.2 Member=Component Stereo Input1 CUI 43515TS
+Added Member To Class: ClassName=Mako DSP Audio Codec R1.2 Member=Component Stereo Output1 CUI 43515TS
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component TRST1 Header 2
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component U6 MIC24085
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component U7 TLV117113
+Added Member To Class: ClassName=Mako DSP Main R1.2 Member=Component WAKEUP1 Socket
