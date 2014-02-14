@@ -20,6 +20,9 @@ Prototype Design 1.0:
 Created and Designed by Adam J. Vadala-Roth
 MakoDSP founded by Adam J. Vadala-Roth
 
+NOTE: Currently in active development
+
 Released as 100% Open Source under
 Creative Commons Attribution-ShareAlike 3.0 Unported License
 http://creativecommons.org/licenses/by-sa/3.0/us/
+
