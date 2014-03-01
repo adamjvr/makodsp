@@ -191,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=Mako DSP R1.5.PcbDoc
+DocumentPath=Mako DSP R1.6.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -232,6 +232,9 @@ Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=ProjectOutputs
+
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=-1
@@ -265,9 +268,6 @@ SCH_PrintColor=0
 SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs

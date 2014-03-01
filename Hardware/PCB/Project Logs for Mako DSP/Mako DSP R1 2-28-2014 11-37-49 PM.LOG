@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC26_2 Pin=C26-2
+Removed Pin From Net: NetName=NetR10_2 Pin=R10-2
+Change Component Footprint: Designator=C55 Old Footprint=1608[0603] New Footprint=C1206
+Change Component Footprint: Designator=C53 Old Footprint=Panasonic VS B New Footprint=C1206
+Change Component Comment : Designator=C54 Old Comment=Cap Semi New Comment=0603
+Change Component Comment : Designator=C50 Old Comment=Cap Semi New Comment=1206
+Change Component Comment : Designator=C55 Old Comment=Cap Semi New Comment=1206
+Added Component: Designator=U6(MIC24085-AYML)
+Added Pin To Net: NetName=NetR10_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=R10-2
+Added Pin To Net: NetName=NetC26_1 Pin=U6-1
+Added Pin To Net: NetName=VIN Pin=U6-2
+Added Pin To Net: NetName=VIN Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=NetR9_1 Pin=U6-5
+Added Pin To Net: NetName=NetC26_2 Pin=U6-8
+Added Pin To Net: NetName=NetR10_2 Pin=U6-10
+Added Pin To Net: NetName=VIN Pin=U6-11
+Added Pin To Net: NetName=NetC26_1 Pin=U6-12
+Added Pin To Net: NetName=NetC26_1 Pin=U6-13
+Added Pin To Net: NetName=GND Pin=U6-14
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=NetC26_1 Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-17
+Change Net Name : Old Net Name=NetC26_1 New Net Name=SW
+Change Net Name : Old Net Name=NetC26_2 New Net Name=PG
+Change Net Name : Old Net Name=NetR9_1 New Net Name=FB
+Change Net Name : Old Net Name=NetR10_2 New Net Name=BST
+Added Member To Class: ClassName=Mako DSP Power R1.3 Member=Component U6 MIC24085
