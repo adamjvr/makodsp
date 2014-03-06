@@ -17,6 +17,10 @@ Prototype Design 1.0:
 
 ![Prototype Design 1.0](/Hardware/PCB/Mako%20DSP%20P1.png)
 
+Updated Prototype 1.6:
+![Prototype Design 1.6](/Hardware/PCB/Mako%20DSP%20P1.6.png)
+
+
 Created and Designed by Adam J. Vadala-Roth
 MakoDSP founded by Adam J. Vadala-Roth
 
