@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=ADC_RX_MCLK Pin=U5-68
-Added Pin To Net: NetName=ADC_RX_MCLK Pin=U5-112

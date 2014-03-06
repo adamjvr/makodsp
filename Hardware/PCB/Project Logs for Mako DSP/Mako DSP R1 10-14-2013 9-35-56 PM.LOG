@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PWM_11 Pin=U5-7
-Removed Pin From Net: NetName=PWM_10 Pin=U5-9
-Added Pin To Net: NetName=PWM_10 Pin=U5-7
-Added Pin To Net: NetName=PWM_11 Pin=U5-9

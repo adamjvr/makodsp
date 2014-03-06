@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetR27_2 Pin=R27-2
-Removed Pin From Net: NetName=NetR27_2 Pin=U5-21
-Removed Pin From Net: NetName=USB0_VBUS Pin=U5-91
-Added Pin To Net: NetName=USB0_VBUS Pin=R27-2
-Added Pin To Net: NetName=USB0_VBUS Pin=U5-21
-Added Pin To Net: NetName=NetR27_2 Pin=U5-91
-Change Net Name : Old Net Name=NetR22_2 New Net Name=USB0_PPWR_FAULT
-Change Net Name : Old Net Name=NetR27_2 New Net Name=NetU5_91
-Change Net Name : Old Net Name=NetR47_2 New Net Name=USB0_PPWR

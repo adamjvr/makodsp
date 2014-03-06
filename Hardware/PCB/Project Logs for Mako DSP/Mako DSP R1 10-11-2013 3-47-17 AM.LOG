@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ADC_RX_SDA Pin=U5-116
-Removed Pin From Net: NetName=MODE Pin=U5-119
-Added Pin To Net: NetName=MODE Pin=U5-110
-Added Pin To Net: NetName=ADC_RX_SDA Pin=U5-119

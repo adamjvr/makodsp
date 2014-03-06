@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=ADC_REF Pin=Digital IO Higher Byte1-3
-Added Pin To Net: NetName=AVDD Pin=Digital IO Higher Byte1-3
-Change Net Name : Old Net Name=ADC_REF New Net Name=VDDA

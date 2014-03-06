@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetAux GPIO 1_1 Pin=U5-72
-Removed Pin From Net: NetName=NetAux GPIO 1_3 Pin=U5-73
-Removed Pin From Net: NetName=NetAux GPIO 1_2 Pin=U5-74
-Removed Pin From Net: NetName=NetAux GPIO 1_4 Pin=U5-75
-Added Pin To Net: NetName=NetAux GPIO 1_2 Pin=U5-72
-Added Pin To Net: NetName=NetAux GPIO 1_1 Pin=U5-73
-Added Pin To Net: NetName=NetAux GPIO 1_4 Pin=U5-74
-Added Pin To Net: NetName=NetAux GPIO 1_3 Pin=U5-75

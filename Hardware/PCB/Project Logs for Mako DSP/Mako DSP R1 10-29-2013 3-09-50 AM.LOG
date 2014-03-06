@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=USER_STATUS_GREEN Pin=U5-105
-Removed Pin From Net: NetName=USER_STATUS_RED Pin=U5-106
-Added Pin To Net: NetName=USER_STATUS_RED Pin=U5-105
-Added Pin To Net: NetName=USER_STATUS_GREEN Pin=U5-106

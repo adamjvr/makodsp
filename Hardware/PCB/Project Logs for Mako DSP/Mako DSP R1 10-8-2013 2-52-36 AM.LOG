@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C7-1
-Removed Pin From Net: NetName=DVDD Pin=C7-2
-Removed Pin From Net: NetName=DVDD Pin=SSP1-4
-Removed Pin From Net: NetName=GND Pin=SSP1-6
-Removed Member From Class: ClassName=Mako DSP Arduio IO Member=C7
-Removed Member From Class: ClassName=Mako DSP Arduio IO Member=SSP1
-Added Member To Class: ClassName=Mako DSP Arduio IO Member=Component C2 Cap Semi
