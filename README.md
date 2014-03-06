@@ -13,12 +13,15 @@ Mako DSP Board Prototype 1.0 Specs:
 - Dedicated Analog and Digital Supplies for clean audio
 - Real time DSP Capable
 
+Updated Prototype 1.6:
+
+![Prototype Design 1.6](/Hardware/PCB/MakoDSP_P1.6.png)
+
+
 Prototype Design 1.0:
 
 ![Prototype Design 1.0](/Hardware/PCB/Mako%20DSP%20P1.png)
 
-Updated Prototype 1.6:
-![Prototype Design 1.6](/Hardware/PCB/Mako%20DSP%20P1.6.png)
 
 
 Created and Designed by Adam J. Vadala-Roth
