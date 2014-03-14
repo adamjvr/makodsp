@@ -15,17 +15,17 @@ Mako DSP Board Prototype 1.0 Specs:
 
 Updated Prototype 1.6:
 
-![Prototype Design 1.6](Hardware\Depreciated%20Variants\Mako%20DSP%20LPC4337%20TQFT144%20-%20NO%20LONGER%20DEVELOPED/MakoDSP_P1.6.png)
+![Prototype Design 1.6](Hardware/Depreciated%20Variants/Mako%20DSP%20LPC4337%20TQFT144%20-%20NO%20LONGER%20DEVELOPED/MakoDSP_P1.6.png)
 
 
 Prototype Design 1.0:
 
-![Prototype Design 1.0](Hardware\Depreciated%20Variants\Mako%20DSP%20LPC4337%20TQFT144%20-%20NO%20LONGER%20DEVELOPED/Mako%20DSP%20P1.png)
+![Prototype Design 1.0](Hardware/Depreciated%20Variants/Mako%20DSP%20LPC4337%20TQFT144%20-%20NO%20LONGER%20DEVELOPED/Mako%20DSP%20P1.png)
 
 
 
-Update:
-Mako DSP has been in development since August 2013, the first prototype design was completed in October 2013, development stopped from the end of october until lay January 2014. No prototypes have been manufactured as of yet. I have been doing a lot of thinking about what sort of audio processing I want the Mako to be able to do and thinking about how that will affect the design. For a long while even at the start of the project I was considering external memory. External memory would allow for many more possibilities, the only issues is that it needs more pins. THe decision has been made to swtich over the to the BGA256 package for the LPC4337 and add an external SDRAM module. These are huge changes and will require a complete redesign of the hardware but its the right direction to go in. Stay tuned folks!
+Update 2/23/14:
+Mako DSP has been in development since August 2013, the first prototype design was completed in October 2013, development stopped from the end of october until late January 2014. No prototypes have been manufactured as of yet. I have been doing a lot of thinking about what sort of audio processing I want the Mako to be able to do and thinking about how that will affect the design. For a long while even at the start of the project I was considering external memory. External memory would allow for many more possibilities, the only issues is that it needs more pins. THe decision has been made to swtich over the to the BGA256 package for the LPC4337 and add an external SDRAM module. These are huge changes and will require a complete redesign of the hardware but its the right direction to go in. Stay tuned folks!
 
 
 Created and Designed by Adam J. Vadala-Roth
