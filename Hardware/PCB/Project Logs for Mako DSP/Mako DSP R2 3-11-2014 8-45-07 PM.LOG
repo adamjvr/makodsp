@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetSD_5 Pin=U5-D10
+Added Pin To Net: NetName=NetSSP1_5 Pin=U5-E9
+Added Pin To Net: NetName=NetR60_1 Pin=U5-M2
+Added Pin To Net: NetName=EMC_DQ4 Pin=U5-R9
+Added Pin To Net: NetName=EMC_DQ5 Pin=U5-R10
+Added Pin To Net: NetName=EMC_DQ6 Pin=U5-R11
+Added Pin To Net: NetName=EMC_DQ3 Pin=U5-T9

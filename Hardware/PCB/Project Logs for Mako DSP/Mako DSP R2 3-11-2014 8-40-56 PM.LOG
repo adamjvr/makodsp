@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetSSP1_1 Pin=SSP1-1
+Removed Pin From Net: NetName=NetSSP1_3 Pin=SSP1-3
+Removed Pin From Net: NetName=NetSSP1_4 Pin=SSP1-4
+Added Component: Designator=C64(Panasonic VS B)
+Added Component: Designator=R58(J1-0603)
+Added Component: Designator=R59(J1-0603)
+Added Component: Designator=R60(J1-0603)
+Added Component: Designator=R61(J1-0603)
+Added Component: Designator=R62(J1-0603)
+Added Component: Designator=SD(JAE SJ107021)
+Added Pin To Net: NetName=DVDD Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=NetSSP1_1 Pin=R58-1
+Added Pin To Net: NetName=DVDD Pin=R58-2
+Added Pin To Net: NetName=NetSSP1_3 Pin=R59-1
+Added Pin To Net: NetName=DVDD Pin=R59-2
+Added Pin To Net: NetName=DVDD Pin=R60-2
+Added Pin To Net: NetName=DVDD Pin=R61-2
+Added Pin To Net: NetName=NetSSP1_4 Pin=R62-1
+Added Pin To Net: NetName=DVDD Pin=R62-2
+Added Pin To Net: NetName=NetSSP1_1 Pin=SD-1
+Added Pin To Net: NetName=NetSSP1_3 Pin=SD-2
+Added Pin To Net: NetName=DVDD Pin=SD-4
+Added Pin To Net: NetName=GND Pin=SD-6
+Added Pin To Net: NetName=NetSSP1_4 Pin=SD-8
+Added Pin To Net: NetName=GND Pin=SD-9
+Added Pin To Net: NetName=GND Pin=SD-10
+Added Pin To Net: NetName=GND Pin=SD-11
+Added Pin To Net: NetName=GND Pin=SD-12
+Change Net Name : Old Net Name=NetSSP1_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetSSP1_3 New Net Name=NetR59_1
+Change Net Name : Old Net Name=NetSSP1_4 New Net Name=NetR62_1
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=SD-3
+Added Pin To Net: NetName=NetR60_1 Pin=SSP1-4
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=SD-7
+Added Pin To Net: NetName=NetR61_1 Pin=SSP1-1
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetSD_5 Pin=SD-5
+Added Pin To Net: NetName=NetSD_5 Pin=SSP1-3
+Added Net: Name=NetSD_5
+Added Class: Name=Mako DSP SD Card and MIDI R2.1

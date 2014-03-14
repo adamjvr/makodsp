@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PinMuxDesign>
+    <Chip>LPC4337FBD144</Chip>
+    <Peripheral Name="I2C0">
+        <Signals BallNumber="91" Signal="I2C0_SCL"/>
+        <Signals BallNumber="92" Signal="I2C0_SDA"/>
+    </Peripheral>
+    <Peripheral Name="I2S0">
+        <Signals BallNumber="67" Signal="I2S0_RX_MCLK"/>
+        <Signals BallNumber="111" Signal="I2S0_RX_SCK"/>
+        <Signals BallNumber="115" Signal="I2S0_RX_SDA"/>
+        <Signals BallNumber="113" Signal="I2S0_RX_WS"/>
+        <Signals BallNumber="117" Signal="I2S0_TX_MCLK"/>
+        <Signals BallNumber="13" Signal="I2S0_TX_SCK"/>
+        <Signals BallNumber="120" Signal="I2S0_TX_SDA"/>
+        <Signals BallNumber="31" Signal="I2S0_TX_WS"/>
+    </Peripheral>
+    <Peripheral Name="JTAG">
+        <Signals BallNumber="26" Signal="TCK/SWDCLK"/>
+        <Signals BallNumber="25" Signal="TDI"/>
+        <Signals BallNumber="30" Signal="TDO/SWO"/>
+        <Signals BallNumber="29" Signal="TMS/SWDIO"/>
+        <Signals BallNumber="28" Signal="TRST"/>
+    </Peripheral>
+    <Peripheral Name="RTC">
+        <Signals BallNumber="128" Signal="RTC_ALARM"/>
+        <Signals BallNumber="124" Signal="RTCX1"/>
+        <Signals BallNumber="125" Signal="RTCX2"/>
+    </Peripheral>
+    <Peripheral Name="SD/MMC">
+        <Signals BallNumber="44" Signal="SD_CLK"/>
+        <Signals BallNumber="48" Signal="SD_CMD"/>
+        <Signals BallNumber="51" Signal="SD_DAT0"/>
+        <Signals BallNumber="52" Signal="SD_DAT1"/>
+        <Signals BallNumber="54" Signal="SD_DAT2"/>
+        <Signals BallNumber="55" Signal="SD_DAT3"/>
+    </Peripheral>
+    <Peripheral Name="UART1">
+        <Signals BallNumber="60" Signal="U1_RXD"/>
+        <Signals BallNumber="59" Signal="U1_TXD"/>
+    </Peripheral>
+    <Peripheral Name="USART0">
+        <Signals BallNumber="80" Signal="U0_RXD"/>
+        <Signals BallNumber="74" Signal="U0_TXD"/>
+    </Peripheral>
+    <Peripheral Name="USB0">
+        <Signals BallNumber="19" Signal="USB0_DM"/>
+        <Signals BallNumber="17" Signal="USB0_DP"/>
+        <Signals BallNumber="21" Signal="USB0_ID"/>
+        <Signals BallNumber="49" Signal="USB0_PPWR"/>
+        <Signals BallNumber="47" Signal="USB0_PWR_FAULT"/>
+        <Signals BallNumber="23" Signal="USB0_RREF"/>
+        <Signals BallNumber="20" Signal="USB0_VBUS"/>
+        <Signals BallNumber="15" Signal="USB0_VDDA3V3_DRIVER"/>
+        <Signals BallNumber="22" Signal="USB0_VSSA&#xa;_REF"/>
+        <Signals BallNumber="18" Signal="USB0_VSSA&#xa;_TERM"/>
+    </Peripheral>
+    <Peripheral Name="USB1">
+        <Signals BallNumber="89" Signal="USB1_DM"/>
+        <Signals BallNumber="88" Signal="USB1_DP"/>
+        <Signals BallNumber="68" Signal="USB1_PPWR"/>
+        <Signals BallNumber="71" Signal="USB1_PWR_FAULT"/>
+        <Signals BallNumber="90" Signal="USB1_VBUS"/>
+    </Peripheral>
+    <Peripheral Name="WAKEUP">
+        <Signals BallNumber="129" Signal="WAKEUP0"/>
+    </Peripheral>
+</PinMuxDesign>

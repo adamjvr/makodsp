@@ -1,0 +1,42 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Mako DSP.PrjPCB|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\makodsp\Hardware\PCB\Mako DSP.PrjPCB|ReportField=Title~Bill of Materials For Project [Mako DSP.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~164|ReportField=ReportTime~8:07:46 PM|ReportField=ReportDate~2/9/2014|ReportField=ReportDateTime~2/9/2014 8:07:46 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/9/2014|ReportField=CurrentTime~8:07:41 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\makodsp\Hardware\PCB\Mako DSP Arduio IO R1.2.SchDoc|ReportField=DocumentName~Mako DSP Arduio IO R1.2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/9/2014|ReportField=Organization~|ReportField=ProjectName~Mako DSP.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Mako DSP.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\makodsp\Hardware\PCB\Mako DSP.PrjPCB
+Center-positive 2.1 mm power jack|Power jack|1|PJ-102AH|PWR2.5|1
+Arduino Leonardo Analog||Analog Input1|Arduino Leonardo Analog|Arduino Leonardo Analog|1
+Header 5X2|Header, 5-Pin, Dual row|Aux GPIO 0, Aux GPIO 1|HDR2X5|Header 5X2|2
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4, C5, C6, C24, C25|0402|Cap Semi|8
+Cap Semi|Capacitor (Semiconductor SIM Model)|C7, C50, C54, C56, C57, C59, C60, C72, C73, C74|C1206|Cap Semi|10
+Cap Semi|Capacitor (Semiconductor SIM Model)|C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C26, C30, C31, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C55, C62, C63, C64, C65, C68|1608[0603]|Cap Semi|38
+Cap Semi|Capacitor (Semiconductor SIM Model)|C20, C22, C53, C58, C61, C71|Panasonic VS B|Cap Semi|6
+Cap Semi|Capacitor (Semiconductor SIM Model)|C21, C23|SM 0805 - gap trimmed|Cap Semi|2
+Cap Semi|Capacitor (Semiconductor SIM Model)|C27, C28, C29, C32|CAPC1608L|Cap Semi|4
+Cap Pol1|Polarized Capacitor (Radial)|C51, C52|CAPPR2.5-6.3x5|Cap Pol1|2
+PMEG4050EP|Default Diode|D2|PMEG4050EP|Diode|1
+Header 2|Header, 2-Pin|DBGEN1, TRST1|HDR1X2|Header 2|2
+Arduino Leonardo High Byte||Digital IO Higher Byte1|Arduino Leonardo High Byte|Arduino Leonardo High Byte|1
+Arduino Leonardo Low Byte||Digital IO Lower Byte1|Arduino Leonardo Low Byte|Arduino Leonardo Low Byte|1
+BLM15HG601SN1D|BLM15HG601SN1D|FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB10, FB12, FB13, FB17|BLM18PG121SN1D|BLM15HG601SN1D|11
+Ferrite|Inductor|FB14, FB15, FB16|SM 0805 - gap trimmed|Inductor|3
+DX4R005J91R5100|Micro USB Jack B|J3|Micro USB Circular Holes Only|Micro USB|1
+S9015E-05-ND||JTAG/DEBUG1|S9015E-05-ND|S9015E-05-ND|1
+Inductor|Inductor|L1|CIP0530LR3R3|Inductor|1
+Inductor|Inductor|L3|VLS252012T-2R2M1R3|Inductor|1
+Arduino Leonardo Power||Power & Reset1|Arduino Leonardo Power|Arduino Leonardo Power|1
+FDN340P|P-Channel MOSFET|Q1|SOT23-3N|FDN340P|1
+Res3|Resistor|R1, R2, R3, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R22, R23, R24, R25, R26, R27, R28, R29, R30, R32, R33, R40, R41, R42, R43, R44, R45, R47|J1-0603|Res3|36
+Res3|Resistor|R4, R5|SM 0805 - gap trimmed|Res3|2
+Res3|Resistor|R21|RESC2012L|Res3|1
+Res3|Resistor|R34, R35, R36, R37, R38, R39|0402 - duplicate|Res3|6
+Tactile Switch||RESET1|TL3301|Tactile Switch|1
+Socket|Socket|RTCALARM1, WAKEUP1|PIN1|Socket|2
+JAE SJ107021||SD1|JAE SJ107021|JAE SJ107021 microSD Card Socket|1
+APTF1616SEEZGQBDC|RGB LED|STATUS, USER STATUS|RGB LED APTF1616SEEZGQBDC|RGB LED APTF1616SEEZGQBDC|2
+CUI 43515TS||Stereo Input1, Stereo Output1|CUI SJ-43515TS|CUI 43515TS|2
+BAV70S SOT-363||U1, U2, U3|BAV70S_SOT363|BAV70S SOT-363|3
+WM8778||U4|WM8778|WM8778|1
+LPC4330FBD144|32-bit ARM Cortex-M4 MCU, 264 kB SRAM, 2 HS USB with on-chip PHY, Ethernet, CAN, AES, SPIFI, SGPIO, SCT, 144-Pin LQFP|U5|SOT486-1_V|LPC4330FBD144|1
+MIC24085||U6|MIC24085-AYML|MIC24085|1
+TLV117113|Linear Regulator|U7|TLV117112|TLV117112|1
+Ti LM358 SOP||U8|LM358|LM358_Symbol|1
+TPS62162SOP||U9|TPS62162SOP|TPS62162SOP|1
+LM3525|LM3525|U10|LM3525|LM3525|1
+ABM3B-12.000MHZ-B2-T||X1|ABM3B-12.000MHZ-B2-T|ABM3B-12.000MHZ-B2-T|1
+ABS07-32.768KHZ-T|ABS07-32.768KHZ-T RTC Crystal Oscillator|X2|ABS07-32.768KHZ-T|ABS07-32.768KHZ-T|1
