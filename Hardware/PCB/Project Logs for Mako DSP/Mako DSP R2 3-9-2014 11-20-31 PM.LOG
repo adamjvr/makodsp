@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=Mako DSP Audio Codec R2.0 Member=U12
-Added Component: Designator=TP3(PIN1)
-Added Pin To Net: NetName=GND Pin=TP3-1
-Added Member To Class: ClassName=Mako DSP Power R2.0 Member=Component TP3 Socket
-Added Member To Class: ClassName=Mako DSP Audio Codec R2.0 Member=Component U11 LME49722MA

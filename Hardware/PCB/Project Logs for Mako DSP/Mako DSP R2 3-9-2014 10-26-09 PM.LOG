@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=U11 NewDesignator=U12
-Added Pin To Net: NetName=NetC70_1 Pin=U11-1
-Added Pin To Net: NetName=NetR31_1 Pin=U11-2
-Added Pin To Net: NetName=NetC75_2 Pin=U11-3
-Added Pin To Net: NetName=NetC78_2 Pin=U11-5
-Added Pin To Net: NetName=NetR52_1 Pin=U11-6
-Added Pin To Net: NetName=NetC77_1 Pin=U11-7
-Added Member To Class: ClassName=Mako DSP Audio Codec R2.0 Member=Component U11 LME49722MA
-Added Member To Class: ClassName=Mako DSP Memory R2.0 Member=Component U12 AS4C8M16S
