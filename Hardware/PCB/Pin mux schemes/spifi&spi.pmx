@@ -20,8 +20,11 @@
         <Signals BallNumber="206" Signal="EMC_A12"/>
         <Signals BallNumber="255" Signal="EMC_A13"/>
         <Signals BallNumber="239" Signal="EMC_CAS"/>
+        <Signals BallNumber="123" Signal="EMC_CKEOUT0"/>
         <Signals BallNumber="249" Signal="EMC_CLK1"/>
         <Signals BallNumber="228" Signal="EMC_CS0"/>
+        <Signals BallNumber="222" Signal="EMC_CS1"/>
+        <Signals BallNumber="202" Signal="EMC_CS2"/>
         <Signals BallNumber="244" Signal="EMC_D0"/>
         <Signals BallNumber="230" Signal="EMC_D1"/>
         <Signals BallNumber="246" Signal="EMC_D2"/>
@@ -38,6 +41,7 @@
         <Signals BallNumber="210" Signal="EMC_D13"/>
         <Signals BallNumber="227" Signal="EMC_D14"/>
         <Signals BallNumber="247" Signal="EMC_D15"/>
+        <Signals BallNumber="224" Signal="EMC_D16"/>
         <Signals BallNumber="110" Signal="EMC_DQMOUT0"/>
         <Signals BallNumber="126" Signal="EMC_DQMOUT1"/>
         <Signals BallNumber="223" Signal="EMC_RAS"/>
