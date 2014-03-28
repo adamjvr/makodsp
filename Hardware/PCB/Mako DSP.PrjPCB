@@ -127,38 +127,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document7]
-DocumentPath=Libraries\Adams Altium Library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document8]
-DocumentPath=Libraries\Adams Altium Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document9]
 DocumentPath=Libraries\Mako DSP PCB Footprint Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document8]
 DocumentPath=Libraries\Mako DSP Schematic Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document9]
 DocumentPath=Libraries\National Semiconductor Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document10]
 DocumentPath=Libraries\National Semiconductor Audio.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document11]
 DocumentPath=Libraries\NXP Semiconductors Cortex-M4.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document12]
 DocumentPath=Mako DSP Memory R2.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document13]
 DocumentPath=Libraries\Mako DSP Memory R2.0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +238,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document14]
 DocumentPath=Mako DSP.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +254,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document15]
 DocumentPath=Mako DSP QuadFlash and Boot R2.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +270,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document16]
 DocumentPath=Mako DSP SD Card and MIDI R2.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +286,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
+[Document17]
 DocumentPath=Libraries\TI Power Management Linear Regulator Single Channel LDO (400-7500mA).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -334,7 +302,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document20]
+[Document18]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier Audio Operational Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -350,7 +318,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
+[Document19]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier Low Power Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,7 +334,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document22]
+[Document20]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier Zero Drift Precision Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -382,7 +350,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document23]
+[Document21]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier General Purpose.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -398,7 +366,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document24]
+[Document22]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier High Speed.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +382,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document25]
+[Document23]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier Precision Amplifier Part One.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +398,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document26]
+[Document24]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Amplifiers and Linear Operational Amplifier Precision Amplifier Part Two.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +414,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document27]
+[Document25]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Data Converters Analog to Digital Converter.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +430,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document28]
+[Document26]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Data Converters Digital to Analog Converter.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,8 +446,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document29]
+[Document27]
 DocumentPath=..\..\..\..\..\Desktop\Altium Libraries\TI Power Management Linear Regulator Single Channel LDO (400-7500mA).IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document28]
+DocumentPath=..\..\..\altiumPartLib\Adams Altium Library.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document29]
+DocumentPath=..\..\..\altiumPartLib\Adams Altium Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
